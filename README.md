@@ -18,7 +18,17 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+```
+a=str(input())
+b=str(input())
+z=a
+a=b
+b=z
+print("Swapped values are:",a,b)
+```
 
+##OUTPUT:
+![pyth ex1a](https://user-images.githubusercontent.com/119478098/215005416-8b32a52f-4792-4042-9e60-c9de5a55f372.png)
 
 
 ## RESULT:
